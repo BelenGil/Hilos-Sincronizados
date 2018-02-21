@@ -1,7 +1,7 @@
 package EJERCICIO3;
 
 public class Hilo implements Runnable {
-
+//y las prioridades????
 	//Variables
 	String ms;
 	
